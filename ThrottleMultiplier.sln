@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrottleMultiplier", "ThrottleMultiplier\ThrottleMultiplier.csproj", "{B7AFBDFF-FD59-4443-80D1-322CDBFDEA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7AFBDFF-FD59-4443-80D1-322CDBFDEA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AFBDFF-FD59-4443-80D1-322CDBFDEA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AFBDFF-FD59-4443-80D1-322CDBFDEA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AFBDFF-FD59-4443-80D1-322CDBFDEA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {876AF3F5-5342-46F6-B3D8-EF091C8ED40D}
+	EndGlobalSection
+EndGlobal
